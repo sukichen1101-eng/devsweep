@@ -1,0 +1,13 @@
+# devsweep output / logs
+**/devsweep_*.txt
+_lastlog.json
+_lasttest.txt
+
+# dev helper scripts (not part of the published skill)
+to_bom.py
+fix_*.py
+
+# OS / editor
+Thumbs.db
+.DS_Store
+*.swp
